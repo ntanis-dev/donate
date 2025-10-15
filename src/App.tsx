@@ -204,7 +204,7 @@ function App() {
                 href="https://github.com/ntanis-dev"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-slate-400 hover:text-orange-400 transition-colors"
+                className="text-white font-medium underline underline-offset-2 hover:text-white/80 transition-colors"
               >GitHub</a> projects are free to use.
             </p>
           </div>
