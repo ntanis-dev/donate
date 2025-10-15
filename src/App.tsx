@@ -227,7 +227,7 @@ function App() {
                         <span className="text-sm sm:text-base font-semibold">Revolut</span>
                       </div>
                       <div className="text-white/80 text-xs">
-                        Credit Card • Revolut
+                        Revolut • Debit / Credit Card 
                       </div>
                     </div>
                     <ExternalLink className="w-4 h-4 group-hover:translate-x-1 transition-transform flex-shrink-0" />
@@ -247,7 +247,7 @@ function App() {
                         <span className="text-sm sm:text-base font-semibold text-slate-200 group-hover:text-orange-400 transition-colors">TipeeeStream</span>
                       </div>
                       <div className="text-xs text-slate-400">
-                        Credit Card • Sofort • Giropay • PaysafeCard • iDEAL • Apple Pay • Google Pay
+                        Debit / Credit Card • Sofort • Giropay • PaysafeCard • iDEAL • Apple Pay • Google Pay
                       </div>
                     </div>
                     <ExternalLink className="w-4 h-4 group-hover:translate-x-1 transition-transform flex-shrink-0 text-slate-300" />
