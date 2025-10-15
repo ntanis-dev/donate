@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    user-select: none;
+  }
+
+  .select-text {
+    user-select: text;
+  }
+
+  .select-text::selection {
+    background-color: rgba(251, 146, 60, 0.3);
+    color: rgb(254, 215, 170);
+  }
+}
