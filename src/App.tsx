@@ -200,7 +200,12 @@ function App() {
             </div>
             <h1 className="text-xl sm:text-2xl text-white mb-2">@ntanis-dev</h1>
             <p className="text-white/90 text-xs sm:text-sm max-w-2xl italic mx-auto">
-              If you've found my work helpful, any contribution is greatly appreciated.<br className="hidden sm:inline"/><span className="sm:hidden"> </span>There's absolutely no obligation, all projects are free and open source regardless.
+              If you've found my work helpful, any contribution is greatly appreciated.<br className="hidden sm:inline"/><span className="sm:hidden"> </span>There's absolutely no obligation, all of my public <a
+                href="https://github.com/ntanis-dev"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-slate-400 hover:text-orange-400 transition-colors"
+              >GitHub</a> projects are free to use.
             </p>
           </div>
 
